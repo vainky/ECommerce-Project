@@ -8,6 +8,7 @@ Checkout
 
 Microservices
 Bounded Context:
+
 1.User Services:
 Manages accounts, and profiles.
 
